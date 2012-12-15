@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPaymentFormat", "SmartPaymentFormat\SmartPaymentFormat.csproj", "{2FFA5FBF-636D-4ABC-A09A-9D4C5741ABDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPaymentFormat.Tests", "SmartPaymentFormat.Tests\SmartPaymentFormat.Tests.csproj", "{D422AA71-C769-43AE-93DD-FD25B160AA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFA5FBF-636D-4ABC-A09A-9D4C5741ABDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFA5FBF-636D-4ABC-A09A-9D4C5741ABDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFA5FBF-636D-4ABC-A09A-9D4C5741ABDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFA5FBF-636D-4ABC-A09A-9D4C5741ABDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D422AA71-C769-43AE-93DD-FD25B160AA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422AA71-C769-43AE-93DD-FD25B160AA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422AA71-C769-43AE-93DD-FD25B160AA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422AA71-C769-43AE-93DD-FD25B160AA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
